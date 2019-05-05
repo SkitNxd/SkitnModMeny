@@ -1,0 +1,20 @@
+<XenosConfig>
+	<imagePath>C:\Users\skitn\Desktop\Print Menu v3.2\Print_Menu_3.2-EDITION_V.dll</imagePath>
+	<manualMapFlags>0</manualMapFlags>
+	<procName>GTA5.exe</procName>
+	<hijack>0</hijack>
+	<unlink>1</unlink>
+	<erasePE>1</erasePE>
+	<close>1</close>
+	<krnHandle>0</krnHandle>
+	<injIndef>0</injIndef>
+	<processMode>0</processMode>
+	<injectMode>0</injectMode>
+	<delay>11900</delay>
+	<period>750</period>
+	<skip>0</skip>
+	<procCmdLine/>
+	<initRoutine/>
+	<initArgs/>
+</XenosConfig>
+

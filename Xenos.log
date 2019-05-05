@@ -1,0 +1,166 @@
+2019-04-29 18:54:23 *NORMAL*     Started on Windows 10.0.0.17134 x64. Driver status: 0xC0000225
+2019-04-29 18:55:49 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 16736, mmap flags: 0x0, erasePE: 1, unlink: 1, thread hijack: 0, init routine: '', init arg: ''
+2019-04-29 18:56:01 *CRITICAL*   Injecting image 'C:\Users\skitn\Desktop\Print Menu v3.2\Print_Menu_3.2-EDITION_V.dll'
+2019-04-29 18:56:01 *ERROR*      Failed to inject image 'C:\Users\skitn\Desktop\Print Menu v3.2\Print_Menu_3.2-EDITION_V.dll'.
+Error code 0xC0000001
+2019-04-29 18:56:11 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 13028, mmap flags: 0x0, erasePE: 1, unlink: 1, thread hijack: 0, init routine: '', init arg: ''
+2019-04-29 18:56:23 *CRITICAL*   Injecting image 'C:\Users\skitn\Desktop\Print Menu v3.2\Print_Menu_3.2-EDITION_V.dll'
+2019-04-29 18:56:23 *ERROR*      Failed to inject image 'C:\Users\skitn\Desktop\Print Menu v3.2\Print_Menu_3.2-EDITION_V.dll'.
+Error code 0xC0000001
+2019-04-29 19:47:33 *NORMAL*     Started on Windows 10.0.0.17134 x64. Driver status: 0xC0000225
+2019-04-29 19:47:42 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 2396, mmap flags: 0x0, erasePE: 1, unlink: 1, thread hijack: 0, init routine: '', init arg: ''
+2019-04-29 19:47:54 *CRITICAL*   Injecting image 'C:\Users\skitn\Desktop\Print Menu v3.2\Print_Menu_3.2-EDITION_V.dll'
+
+2019-04-29 20:00:51 *NORMAL*     Started on Windows 10.0.0.17134 x64. Driver status: 0xC0000225
+2019-04-29 20:01:00 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 13832, mmap flags: 0x0, erasePE: 1, unlink: 1, thread hijack: 0, init routine: '', init arg: ''
+2019-04-29 20:01:12 *CRITICAL*   Injecting image 'C:\Users\skitn\Desktop\Print Menu v3.2\Print_Menu_3.2-EDITION_V.dll'
+
+2019-04-29 20:17:49 *NORMAL*     Started on Windows 10.0.0.17134 x64. Driver status: 0xC0000225
+2019-04-29 20:17:51 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 18736, mmap flags: 0x0, erasePE: 1, unlink: 1, thread hijack: 0, init routine: '', init arg: ''
+2019-04-29 20:18:03 *CRITICAL*   Injecting image 'C:\Users\skitn\Desktop\Print Menu v3.2\Print_Menu_3.2-EDITION_V.dll'
+
+2019-04-29 20:49:00 *NORMAL*     Started on Windows 10.0.0.17134 x64. Driver status: 0xC0000225
+2019-04-29 20:49:14 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 12444, mmap flags: 0x0, erasePE: 1, unlink: 1, thread hijack: 0, init routine: '', init arg: ''
+2019-04-29 20:49:26 *CRITICAL*   Injecting image 'C:\Users\skitn\Desktop\Print Menu v3.2\Print_Menu_3.2-EDITION_V.dll'
+2019-04-29 20:49:26 *ERROR*      Failed to inject image 'C:\Users\skitn\Desktop\Print Menu v3.2\Print_Menu_3.2-EDITION_V.dll'.
+Error code 0xC0000001
+2019-04-29 20:49:35 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 1884, mmap flags: 0x0, erasePE: 1, unlink: 1, thread hijack: 0, init routine: '', init arg: ''
+2019-04-29 20:49:47 *CRITICAL*   Injecting image 'C:\Users\skitn\Desktop\Print Menu v3.2\Print_Menu_3.2-EDITION_V.dll'
+2019-04-29 20:49:47 *ERROR*      Failed to inject image 'C:\Users\skitn\Desktop\Print Menu v3.2\Print_Menu_3.2-EDITION_V.dll'.
+Error code 0xC0000001
+
+2019-04-29 20:56:17 *NORMAL*     Started on Windows 10.0.0.17134 x64. Driver status: 0xC0000225
+2019-04-29 20:56:42 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 11188, mmap flags: 0x0, erasePE: 1, unlink: 1, thread hijack: 0, init routine: '', init arg: ''
+2019-04-29 20:56:54 *CRITICAL*   Injecting image 'C:\Users\skitn\Desktop\Print Menu v3.2\Print_Menu_3.2-EDITION_V.dll'
+
+2019-04-30 16:41:16 *NORMAL*     Started on Windows 10.0.0.17134 x64. Driver status: 0xC0000225
+2019-04-30 16:41:20 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 17592, mmap flags: 0x0, erasePE: 1, unlink: 1, thread hijack: 0, init routine: '', init arg: ''
+2019-04-30 16:41:32 *CRITICAL*   Injecting image 'C:\Users\skitn\Desktop\Print Menu v3.2\Print_Menu_3.2-EDITION_V.dll'
+
+2019-04-30 16:57:01 *NORMAL*     Started on Windows 10.0.0.17134 x64. Driver status: 0xC0000225
+2019-04-30 16:57:02 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 17364, mmap flags: 0x0, erasePE: 1, unlink: 1, thread hijack: 0, init routine: '', init arg: ''
+2019-04-30 16:57:14 *CRITICAL*   Injecting image 'C:\Users\skitn\Desktop\Print Menu v3.2\Print_Menu_3.2-EDITION_V.dll'
+
+2019-04-30 17:10:41 *NORMAL*     Started on Windows 10.0.0.17134 x64. Driver status: 0xC0000225
+2019-04-30 17:10:42 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 8064, mmap flags: 0x0, erasePE: 1, unlink: 1, thread hijack: 0, init routine: '', init arg: ''
+2019-04-30 17:10:54 *CRITICAL*   Injecting image 'C:\Users\skitn\Desktop\Print Menu v3.2\Print_Menu_3.2-EDITION_V.dll'
+
+2019-04-30 17:42:10 *NORMAL*     Started on Windows 10.0.0.17134 x64. Driver status: 0xC0000225
+2019-04-30 17:42:11 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 20484, mmap flags: 0x0, erasePE: 1, unlink: 1, thread hijack: 0, init routine: '', init arg: ''
+2019-04-30 17:42:23 *CRITICAL*   Injecting image 'C:\Users\skitn\Desktop\Print Menu v3.2\Print_Menu_3.2-EDITION_V.dll'
+
+2019-05-01 18:27:34 *NORMAL*     Started on Windows 10.0.0.17134 x64. Driver status: 0xC0000225
+2019-05-01 18:27:39 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 2304, mmap flags: 0x0, erasePE: 1, unlink: 1, thread hijack: 0, init routine: '', init arg: ''
+2019-05-01 18:27:51 *CRITICAL*   Injecting image 'C:\Users\skitn\Desktop\Print Menu v3.2\Print_Menu_3.2-EDITION_V.dll'
+
+2019-05-01 21:37:26 *NORMAL*     Started on Windows 10.0.0.17134 x64. Driver status: 0xC0000225
+2019-05-01 21:37:27 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 15684, mmap flags: 0x0, erasePE: 1, unlink: 1, thread hijack: 0, init routine: '', init arg: ''
+2019-05-01 21:37:38 *CRITICAL*   Injecting image 'C:\Users\skitn\Desktop\Print Menu v3.2\Print_Menu_3.2-EDITION_V.dll'
+
+2019-05-01 22:31:27 *NORMAL*     Started on Windows 10.0.0.17134 x64. Driver status: 0xC0000225
+2019-05-01 22:31:28 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 13756, mmap flags: 0x0, erasePE: 1, unlink: 1, thread hijack: 0, init routine: '', init arg: ''
+2019-05-01 22:31:40 *CRITICAL*   Injecting image 'C:\Users\skitn\Desktop\Print Menu v3.2\Print_Menu_3.2-EDITION_V.dll'
+
+2019-05-01 22:50:23 *NORMAL*     Started on Windows 10.0.0.17134 x64. Driver status: 0xC0000225
+2019-05-01 22:50:24 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 18024, mmap flags: 0x0, erasePE: 1, unlink: 1, thread hijack: 0, init routine: '', init arg: ''
+2019-05-01 22:50:36 *CRITICAL*   Injecting image 'C:\Users\skitn\Desktop\Print Menu v3.2\Print_Menu_3.2-EDITION_V.dll'
+
+2019-05-02 14:46:01 *NORMAL*     Started on Windows 10.0.0.17134 x64. Driver status: 0xC0000225
+2019-05-02 14:50:19 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 7972, mmap flags: 0x0, erasePE: 1, unlink: 1, thread hijack: 0, init routine: '', init arg: ''
+2019-05-02 14:50:31 *CRITICAL*   Injecting image 'C:\Users\skitn\Desktop\Print Menu v3.2\Print_Menu_3.2-EDITION_V.dll'
+
+2019-05-02 15:42:19 *NORMAL*     Started on Windows 10.0.0.17134 x64. Driver status: 0xC0000225
+2019-05-02 15:42:20 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 2124, mmap flags: 0x0, erasePE: 1, unlink: 1, thread hijack: 0, init routine: '', init arg: ''
+2019-05-02 15:42:32 *CRITICAL*   Injecting image 'C:\Users\skitn\Desktop\Print Menu v3.2\Print_Menu_3.2-EDITION_V.dll'
+
+2019-05-02 16:02:29 *NORMAL*     Started on Windows 10.0.0.17134 x64. Driver status: 0xC0000225
+2019-05-02 16:02:30 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 12356, mmap flags: 0x0, erasePE: 1, unlink: 1, thread hijack: 0, init routine: '', init arg: ''
+2019-05-02 16:02:42 *CRITICAL*   Injecting image 'C:\Users\skitn\Desktop\Print Menu v3.2\Print_Menu_3.2-EDITION_V.dll'
+
+2019-05-02 17:42:51 *NORMAL*     Started on Windows 10.0.0.17134 x64. Driver status: 0xC0000225
+2019-05-02 17:42:52 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 11620, mmap flags: 0x0, erasePE: 1, unlink: 1, thread hijack: 0, init routine: '', init arg: ''
+2019-05-02 17:43:04 *CRITICAL*   Injecting image 'C:\Users\skitn\Desktop\Print Menu v3.2\Print_Menu_3.2-EDITION_V.dll'
+
+2019-05-02 20:03:58 *NORMAL*     Started on Windows 10.0.0.17134 x64. Driver status: 0xC0000225
+2019-05-02 20:03:58 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 2380, mmap flags: 0x0, erasePE: 1, unlink: 1, thread hijack: 0, init routine: '', init arg: ''
+2019-05-02 20:04:10 *CRITICAL*   Injecting image 'C:\Users\skitn\Desktop\Print Menu v3.2\Print_Menu_3.2-EDITION_V.dll'
+
+2019-05-02 21:33:36 *NORMAL*     Started on Windows 10.0.0.17134 x64. Driver status: 0xC0000225
+2019-05-02 21:33:36 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 2604, mmap flags: 0x0, erasePE: 1, unlink: 1, thread hijack: 0, init routine: '', init arg: ''
+2019-05-02 21:33:48 *CRITICAL*   Injecting image 'C:\Users\skitn\Desktop\Print Menu v3.2\Print_Menu_3.2-EDITION_V.dll'
+
+2019-05-02 23:40:30 *NORMAL*     Started on Windows 10.0.0.17134 x64. Driver status: 0xC0000225
+2019-05-02 23:40:31 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 6184, mmap flags: 0x0, erasePE: 1, unlink: 1, thread hijack: 0, init routine: '', init arg: ''
+2019-05-02 23:40:43 *CRITICAL*   Injecting image 'C:\Users\skitn\Desktop\Print Menu v3.2\Print_Menu_3.2-EDITION_V.dll'
+
+2019-05-02 23:51:30 *NORMAL*     Started on Windows 10.0.0.17134 x64. Driver status: 0xC0000225
+2019-05-02 23:51:31 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 508, mmap flags: 0x0, erasePE: 1, unlink: 1, thread hijack: 0, init routine: '', init arg: ''
+2019-05-02 23:51:42 *CRITICAL*   Injecting image 'C:\Users\skitn\Desktop\Print Menu v3.2\Print_Menu_3.2-EDITION_V.dll'
+
+2019-05-03 00:01:47 *NORMAL*     Started on Windows 10.0.0.17134 x64. Driver status: 0xC0000225
+2019-05-03 00:01:48 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 18084, mmap flags: 0x0, erasePE: 1, unlink: 1, thread hijack: 0, init routine: '', init arg: ''
+2019-05-03 00:02:00 *CRITICAL*   Injecting image 'C:\Users\skitn\Desktop\Print Menu v3.2\Print_Menu_3.2-EDITION_V.dll'
+
+2019-05-03 01:20:06 *NORMAL*     Started on Windows 10.0.0.17134 x64. Driver status: 0xC0000225
+2019-05-03 01:20:06 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 4072, mmap flags: 0x0, erasePE: 1, unlink: 1, thread hijack: 0, init routine: '', init arg: ''
+2019-05-03 01:20:18 *CRITICAL*   Injecting image 'C:\Users\skitn\Desktop\Print Menu v3.2\Print_Menu_3.2-EDITION_V.dll'
+
+2019-05-03 01:21:06 *NORMAL*     Started on Windows 10.0.0.17134 x64. Driver status: 0xC0000225
+2019-05-03 01:23:59 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 7076, mmap flags: 0x0, erasePE: 1, unlink: 1, thread hijack: 0, init routine: '', init arg: ''
+2019-05-03 01:24:11 *CRITICAL*   Injecting image 'C:\Users\skitn\Desktop\Print Menu v3.2\Print_Menu_3.2-EDITION_V.dll'
+
+2019-05-03 17:56:34 *NORMAL*     Started on Windows 10.0.0.17134 x64. Driver status: 0xC0000225
+2019-05-03 17:56:35 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 24488, mmap flags: 0x0, erasePE: 1, unlink: 1, thread hijack: 0, init routine: '', init arg: ''
+2019-05-03 17:56:47 *CRITICAL*   Injecting image 'C:\Users\skitn\Desktop\Print Menu v3.2\Print_Menu_3.2-EDITION_V.dll'
+
+2019-05-03 20:09:27 *NORMAL*     Started on Windows 10.0.0.17134 x64. Driver status: 0xC0000225
+2019-05-03 20:09:28 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 14068, mmap flags: 0x0, erasePE: 1, unlink: 1, thread hijack: 0, init routine: '', init arg: ''
+2019-05-03 20:09:40 *CRITICAL*   Injecting image 'C:\Users\skitn\Desktop\Print Menu v3.2\Print_Menu_3.2-EDITION_V.dll'
+
+2019-05-03 20:42:40 *NORMAL*     Started on Windows 10.0.0.17134 x64. Driver status: 0xC0000225
+2019-05-03 20:42:40 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 5456, mmap flags: 0x0, erasePE: 1, unlink: 1, thread hijack: 0, init routine: '', init arg: ''
+2019-05-03 20:42:52 *CRITICAL*   Injecting image 'C:\Users\skitn\Desktop\Print Menu v3.2\Print_Menu_3.2-EDITION_V.dll'
+
+2019-05-03 21:03:55 *NORMAL*     Started on Windows 10.0.0.17134 x64. Driver status: 0xC0000225
+2019-05-03 21:03:56 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 11596, mmap flags: 0x0, erasePE: 1, unlink: 1, thread hijack: 0, init routine: '', init arg: ''
+2019-05-03 21:04:08 *CRITICAL*   Injecting image 'C:\Users\skitn\Desktop\Print Menu v3.2\Print_Menu_3.2-EDITION_V.dll'
+
+2019-05-03 22:27:27 *NORMAL*     Started on Windows 10.0.0.17134 x64. Driver status: 0xC0000225
+2019-05-03 22:27:29 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 16628, mmap flags: 0x0, erasePE: 1, unlink: 1, thread hijack: 0, init routine: '', init arg: ''
+2019-05-03 22:27:41 *CRITICAL*   Injecting image 'C:\Users\skitn\Desktop\Print Menu v3.2\Print_Menu_3.2-EDITION_V.dll'
+
+2019-05-03 23:00:13 *NORMAL*     Started on Windows 10.0.0.17134 x64. Driver status: 0xC0000225
+2019-05-03 23:00:13 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 15416, mmap flags: 0x0, erasePE: 1, unlink: 1, thread hijack: 0, init routine: '', init arg: ''
+2019-05-03 23:00:25 *CRITICAL*   Injecting image 'C:\Users\skitn\Desktop\Print Menu v3.2\Print_Menu_3.2-EDITION_V.dll'
+
+2019-05-04 01:14:21 *NORMAL*     Started on Windows 10.0.0.17134 x64. Driver status: 0xC0000225
+2019-05-04 01:14:21 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 2292, mmap flags: 0x0, erasePE: 1, unlink: 1, thread hijack: 0, init routine: '', init arg: ''
+2019-05-04 01:14:33 *CRITICAL*   Injecting image 'C:\Users\skitn\Desktop\Print Menu v3.2\Print_Menu_3.2-EDITION_V.dll'
+
+2019-05-04 02:31:37 *NORMAL*     Started on Windows 10.0.0.17134 x64. Driver status: 0xC0000225
+2019-05-04 02:31:38 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 24204, mmap flags: 0x0, erasePE: 1, unlink: 1, thread hijack: 0, init routine: '', init arg: ''
+2019-05-04 02:31:40 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 24204, mmap flags: 0x0, erasePE: 1, unlink: 1, thread hijack: 0, init routine: '', init arg: ''
+2019-05-04 02:31:50 *CRITICAL*   Injecting image 'C:\Users\skitn\Desktop\Print Menu v3.2\Print_Menu_3.2-EDITION_V.dll'
+2019-05-04 02:31:52 *CRITICAL*   Injecting image 'C:\Users\skitn\Desktop\Print Menu v3.2\Print_Menu_3.2-EDITION_V.dll'
+2019-05-04 02:31:52 *ERROR*      Please select valid process before injection
+2019-05-04 02:31:53 *ERROR*      Context validation failed, status: 0x6
+
+2019-05-04 02:32:21 *NORMAL*     Started on Windows 10.0.0.17134 x64. Driver status: 0xC0000225
+2019-05-04 02:32:24 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 24204, mmap flags: 0x0, erasePE: 1, unlink: 1, thread hijack: 0, init routine: '', init arg: ''
+2019-05-04 02:32:36 *CRITICAL*   Injecting image 'C:\Users\skitn\Desktop\Print Menu v3.2\Print_Menu_3.2-EDITION_V.dll'
+
+2019-05-05 17:46:44 *NORMAL*     Started on Windows 10.0.0.17134 x64. Driver status: 0xC0000225
+2019-05-05 17:46:45 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 20160, mmap flags: 0x0, erasePE: 1, unlink: 1, thread hijack: 0, init routine: '', init arg: ''
+2019-05-05 17:46:57 *CRITICAL*   Injecting image 'C:\Users\skitn\Desktop\Print Menu v3.2\Print_Menu_3.2-EDITION_V.dll'
+
+2019-05-05 18:00:03 *NORMAL*     Started on Windows 10.0.0.17134 x64. Driver status: 0xC0000225
+2019-05-05 18:00:04 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 23968, mmap flags: 0x0, erasePE: 1, unlink: 1, thread hijack: 0, init routine: '', init arg: ''
+2019-05-05 18:00:16 *CRITICAL*   Injecting image 'C:\Users\skitn\Desktop\Print Menu v3.2\Print_Menu_3.2-EDITION_V.dll'
+
+2019-05-05 18:03:43 *NORMAL*     Started on Windows 10.0.0.17134 x64. Driver status: 0xC0000225
+2019-05-05 18:04:39 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 8624, mmap flags: 0x0, erasePE: 1, unlink: 1, thread hijack: 0, init routine: '', init arg: ''
+2019-05-05 18:04:51 *CRITICAL*   Injecting image 'C:\Users\skitn\Desktop\Print Menu v3.2\Print_Menu_3.2-EDITION_V.dll'
+
+2019-05-05 20:19:00 *NORMAL*     Started on Windows 10.0.0.17134 x64. Driver status: 0xC0000225
+2019-05-05 20:19:01 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 7392, mmap flags: 0x0, erasePE: 1, unlink: 1, thread hijack: 0, init routine: '', init arg: ''
+2019-05-05 20:19:13 *CRITICAL*   Injecting image 'C:\Users\skitn\Desktop\Print Menu v3.2\Print_Menu_3.2-EDITION_V.dll'
